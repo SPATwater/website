@@ -1,38 +1,59 @@
-# create-svelte
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+# SPAT-Water💧
 
-## Creating a project
+## Beschrijving 📃
+Ontwerp en ontwikkel een complexe, gebruiksvriendelijke en interactieve webapplicatie op basis van een bestaande api of een zelf in te richten headless CMS
 
-If you're seeing this, you've probably already done this step. Congrats!
+![mockup3](https://github.com/sannevanseeventer/SPATwater-2.0/assets/112857444/e668acea-201f-4391-be72-2eb91ce4367d)
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
 
-## Developing
+## Inhoudsopgave
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+  * [Beschrijving📃](#beschrijving)
+  * [Gebruik👥](#gebruik)
+  * [Kenmerken✅](#kenmerken)
+  * [Installatie⚙️](#installatie)
+  * [Bronnen🌐](#bronnen)
+  * [Licentie](#licentie)
+    
+##  Gebruik  👥
 
-```bash
-npm run dev
+<!-- Voeg een link toe naar Github Pages 🌐-->
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
 
-## Building
+## Kenmerken ✅
+<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
 
-To create a production version of your app:
 
-```bash
-npm run build
-```
+**TOOLS 🧰:**
+* VSCode
+* Miro
+* Figma
+  
+**GEBRUIKTE TECHNIEKEN 🛠️:**
 
-You can preview the production build with `npm run preview`.
+* Svelte
+* Sveltekit
+* Hygragh
+* JS
+* CSS
+  
+**COMMUNICATIE MIDDELEN 🗣️:**
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+* Team Canvas
+* Microsoft Teams
+* Calls
+
+## Installatie ⚙️
+
+1. Clone of download deze repository naar de gewenste folder.
+2. Open de root directory van dit project en open het project in een code editor naar keuze.
+3. Gebruik npm install om de benodigde packages te downloaden voor dit project.
+4. Voor het gebruik van Hygraph om data in te laden gebruik dan het commando npm graphql-request om requesten te fetchen.
+5. Start een server met npm run dev.
+
+## Bronnen 🌐
+
+## Licentie
+This project is licensed under the terms of the MIT license.

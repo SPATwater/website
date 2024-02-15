@@ -1,5 +1,5 @@
 {
-	"name": "website",
+	"name": "spatwater",
 	"version": "0.0.1",
 	"private": true,
 	"scripts": {
@@ -15,5 +15,8 @@
 		"svelte": "^4.2.7",
 		"vite": "^5.0.3"
 	},
-	"type": "module"
+	"type": "module",
+	"dependencies": {
+		"graphql-request": "^6.1.0"
+	}
 }
